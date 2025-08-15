@@ -1,0 +1,10 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-multipart
+boto3
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+bleach
